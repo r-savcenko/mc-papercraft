@@ -120,7 +120,7 @@
          id="g4535"
          inkscape:label="textures">
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            y="193"
            x="50.000004"
@@ -132,7 +132,7 @@
            inkscape:label="left"
            clip-path="url(#clipPath4588)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -144,7 +144,7 @@
            inkscape:label="front"
            clip-path="url(#clipPath4578)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -156,7 +156,7 @@
            inkscape:label="right"
            clip-path="url(#clipPath4574)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -168,7 +168,7 @@
            inkscape:label="back"
            clip-path="url(#clipPath4570)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -179,7 +179,7 @@
            y="185"
            inkscape:label="top" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"

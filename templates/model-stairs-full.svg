@@ -188,7 +188,7 @@
          id="g6004"
          inkscape:label="textures">
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            y="193"
            x="50.000004"
@@ -200,7 +200,7 @@
            inkscape:label="left"
            clip-path="url(#clipPath6056)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -212,7 +212,7 @@
            inkscape:label="front"
            clip-path="url(#clipPath6048)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -225,7 +225,7 @@
            clip-path="url(#clipPath6044)"
            transform="rotate(-179.99997,90,189.00001)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -237,7 +237,7 @@
            inkscape:label="right"
            clip-path="url(#clipPath6060)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -249,7 +249,7 @@
            inkscape:label="top"
            clip-path="url(#clipPath6026)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            clip-path="url(#clipPath6034)"
            inkscape:label="top-2"
@@ -262,7 +262,7 @@
            width="16.000002"
            transform="translate(-5.6293941e-6,-8)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            width="16.000002"
            height="16.000002"
@@ -274,7 +274,7 @@
            inkscape:label="bottom"
            transform="scale(1,-1)" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           sodipodi:absref="textures/blocks/planks_oak.png"
            xlink:href="textures/blocks/planks_oak.png"
            inkscape:label="back"
            y="193"

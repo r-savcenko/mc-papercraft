@@ -70,8 +70,8 @@
          inkscape:label="textures"
          id="g5658">
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
-           xlink:href="../textures/blocks/cobblestone.png"
+           sodipodi:absref="textures/blocks/cobblestone.png"
+           xlink:href="textures/blocks/cobblestone.png"
            y="193"
            x="50"
            id="image3724"
@@ -81,8 +81,8 @@
            width="16"
            inkscape:label="left" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
-           xlink:href="../textures/blocks/cobblestone.png"
+           sodipodi:absref="textures/blocks/cobblestone.png"
+           xlink:href="textures/blocks/cobblestone.png"
            width="16"
            height="16"
            preserveAspectRatio="none"
@@ -92,8 +92,8 @@
            y="193"
            inkscape:label="front" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
-           xlink:href="../textures/blocks/cobblestone.png"
+           sodipodi:absref="textures/blocks/cobblestone.png"
+           xlink:href="textures/blocks/cobblestone.png"
            width="16"
            height="16"
            preserveAspectRatio="none"
@@ -103,8 +103,8 @@
            y="193"
            inkscape:label="right" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
-           xlink:href="../textures/blocks/cobblestone.png"
+           sodipodi:absref="textures/blocks/cobblestone.png"
+           xlink:href="textures/blocks/cobblestone.png"
            width="16"
            height="16"
            preserveAspectRatio="none"
@@ -114,8 +114,8 @@
            y="193"
            inkscape:label="back" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
-           xlink:href="../textures/blocks/cobblestone.png"
+           sodipodi:absref="textures/blocks/cobblestone.png"
+           xlink:href="textures/blocks/cobblestone.png"
            width="16"
            height="16"
            preserveAspectRatio="none"
@@ -125,8 +125,8 @@
            y="177"
            inkscape:label="top" />
         <image
-           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
-           xlink:href="../textures/blocks/cobblestone.png"
+           sodipodi:absref="textures/blocks/cobblestone.png"
+           xlink:href="textures/blocks/cobblestone.png"
            width="16"
            height="16"
            preserveAspectRatio="none"
