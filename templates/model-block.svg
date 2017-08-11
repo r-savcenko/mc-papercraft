@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="68mm"
+   height="56mm"
+   viewBox="0 0 68 56"
+   version="1.1"
+   id="svg4622"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="model-block.svg">
+  <defs
+     id="defs4616" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.0126778"
+     inkscape:cx="117.72909"
+     inkscape:cy="136.86225"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g5658"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5170"
+       empspacing="16"
+       units="mm"
+       spacingx="0.99999999"
+       spacingy="0.99999999" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4619">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-241)">
+    <g
+       id="g5676"
+       inkscape:label="block"
+       transform="translate(-50.000002,67.999999)">
+      <g
+         inkscape:label="textures"
+         id="g5658">
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
+           xlink:href="../textures/blocks/cobblestone.png"
+           y="193"
+           x="50"
+           id="image3724"
+           style="image-rendering:optimizeSpeed"
+           preserveAspectRatio="none"
+           height="16"
+           width="16"
+           inkscape:label="left" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
+           xlink:href="../textures/blocks/cobblestone.png"
+           width="16"
+           height="16"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image3724-9"
+           x="66"
+           y="193"
+           inkscape:label="front" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
+           xlink:href="../textures/blocks/cobblestone.png"
+           width="16"
+           height="16"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image3724-90"
+           x="82"
+           y="193"
+           inkscape:label="right" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
+           xlink:href="../textures/blocks/cobblestone.png"
+           width="16"
+           height="16"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image3724-90-7-8"
+           x="98"
+           y="193"
+           inkscape:label="back" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
+           xlink:href="../textures/blocks/cobblestone.png"
+           width="16"
+           height="16"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image3724-90-7"
+           x="66"
+           y="177"
+           inkscape:label="top" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\mc-papercraft\templates\../textures/blocks/cobblestone.png"
+           xlink:href="../textures/blocks/cobblestone.png"
+           width="16"
+           height="16"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image3724-90-7-7"
+           x="66"
+           y="-225"
+           inkscape:label="bottom"
+           transform="scale(1,-1)" />
+      </g>
+      <g
+         transform="matrix(0.5,0,0,0.5,42.000002,100.5)"
+         inkscape:label="glue-flaps"
+         id="g3878">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 80.129784,184.8702 7.935108,-7.7404 H 103.9351 l 7.93511,7.7404 z"
+           id="path5415-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="top-3" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 48.129785,152.8702 7.935108,-7.7404 h 15.870213 l 7.93511,7.7404 z"
+           id="path5415"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="top-2" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 16.129784,184.8702 7.935108,-7.7404 h 15.870213 l 7.93511,7.7404 z"
+           id="path5415-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="top-1" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25290528;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 144.12646,185.12643 7.74709,7.93679 v 15.87356 l -7.74709,7.93679 z"
+           id="path5415-25"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="right-1" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 80.129782,217.1298 7.935109,7.7404 H 103.9351 l 7.93511,-7.7404 z"
+           id="path5415-4-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="bottom-3" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 48.129785,249.1298 7.935108,7.7404 h 15.870214 l 7.935109,-7.7404 z"
+           id="path5415-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="bottom-2" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 16.129784,217.1298 7.935108,7.7404 h 15.870213 l 7.93511,-7.7404 z"
+           id="path5415-2-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="bottom-1" />
+      </g>
+    </g>
+  </g>
+</svg>

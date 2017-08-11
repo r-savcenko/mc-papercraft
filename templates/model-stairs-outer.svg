@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="68mm"
+   height="56mm"
+   viewBox="0 0 68 56"
+   version="1.1"
+   id="svg5390"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="model-stairs-outer.svg">
+  <defs
+     id="defs5384">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4588">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect4590"
+         width="16"
+         height="8"
+         x="50.000004"
+         y="201"
+         inkscape:label="left-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4578">
+      <rect
+         inkscape:label="front-mask"
+         y="201"
+         x="66"
+         height="8"
+         width="16"
+         id="rect4580"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4574">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect4576"
+         width="16"
+         height="8"
+         x="82"
+         y="201"
+         inkscape:label="right-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4570">
+      <rect
+         inkscape:label="back-mask"
+         y="-209"
+         x="97.999756"
+         height="8"
+         width="16"
+         id="rect4572"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         transform="scale(1,-1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6056">
+      <path
+         inkscape:label="left-mask"
+         inkscape:connector-curvature="0"
+         id="path6058"
+         d="m 66.000001,193 h -7.999999 v 8 h -8 v 8 h 15.999999 z"
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6048">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect6050"
+         width="16"
+         height="8"
+         x="98"
+         y="201"
+         inkscape:label="front-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6044">
+      <rect
+         inkscape:label="front-2-mask"
+         y="193"
+         x="98"
+         height="8"
+         width="16"
+         id="rect6046"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6060">
+      <path
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 82.000001,193 h 8 v 8 h 8 v 8 h -16 z"
+         id="path6062"
+         inkscape:connector-curvature="0"
+         inkscape:label="right-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6026">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect6028"
+         width="16"
+         height="8"
+         x="66.000008"
+         y="185"
+         inkscape:label="top-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6034">
+      <rect
+         inkscape:label="top-2-mask"
+         y="177"
+         x="66.000008"
+         height="8"
+         width="16"
+         id="rect6036"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6056-4">
+      <path
+         inkscape:label="left-mask"
+         inkscape:connector-curvature="0"
+         id="path6058-1"
+         d="m 66.000001,193 h -7.999999 v 8 h -8 v 8 h 15.999999 z"
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6048-6">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect6050-9"
+         width="16"
+         height="8"
+         x="98"
+         y="201"
+         inkscape:label="front-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6044-4">
+      <rect
+         inkscape:label="front-2-mask"
+         y="193"
+         x="98"
+         height="8"
+         width="16"
+         id="rect6046-2"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6060-0">
+      <path
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 82.000001,193 h 8 v 8 h 8 v 8 h -16 z"
+         id="path6062-6"
+         inkscape:connector-curvature="0"
+         inkscape:label="right-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6628">
+      <rect
+         inkscape:label="top-mask"
+         y="185"
+         x="66.000008"
+         height="8"
+         width="8"
+         id="rect6630"
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.09333809;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6690">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.132;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:0;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect6688"
+         width="16"
+         height="8"
+         x="98"
+         y="201"
+         inkscape:label="front-mask" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6651">
+      <path
+         style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 97.999998,209 v -8 H 106 v -8 h 8 v 16 z"
+         id="path6653"
+         inkscape:connector-curvature="0"
+         inkscape:label="top3-mask" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-123.27623"
+     inkscape:cy="26.713872"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5938"
+       units="mm"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empspacing="16" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5387">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-241)">
+    <g
+       id="g6622"
+       inkscape:label="stair-outer"
+       transform="translate(-50.000002,67.999999)">
+      <g
+         inkscape:label="textures"
+         id="g6596">
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           y="193"
+           x="50.000004"
+           id="image6580"
+           style="image-rendering:optimizeSpeed"
+           preserveAspectRatio="none"
+           height="16"
+           width="16"
+           inkscape:label="left"
+           clip-path="url(#clipPath6056-4)" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           width="16.000002"
+           height="16.000002"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image6582"
+           x="98"
+           y="193"
+           inkscape:label="front"
+           clip-path="url(#clipPath6048-6)" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           width="16.000002"
+           height="16.000002"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image6584"
+           x="98"
+           y="193"
+           inkscape:label="front-2"
+           clip-path="url(#clipPath6044-4)"
+           transform="rotate(-179.99997,90,189.00001)" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           transform="translate(-15.999993)"
+           width="16.000002"
+           height="16.000002"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image6586"
+           x="82"
+           y="193"
+           inkscape:label="back"
+           clip-path="url(#clipPath6060-0)" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           width="16.000002"
+           height="16.000002"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image6588"
+           x="66"
+           y="177"
+           inkscape:label="top"
+           clip-path="url(#clipPath6628)" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           width="16.000002"
+           height="16.000002"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image6592"
+           x="66"
+           y="-225"
+           inkscape:label="bottom"
+           transform="scale(1,-1)" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           transform="translate(-15.999992)"
+           clip-path="url(#clipPath6048-6)"
+           inkscape:label="right"
+           y="193"
+           x="98"
+           id="image6624"
+           style="image-rendering:optimizeSpeed"
+           preserveAspectRatio="none"
+           height="16.000002"
+           width="16.000002" />
+        <image
+           sodipodi:absref="C:\Users\r.savcenko\Desktop\mc\textures/blocks/planks_oak.png"
+           xlink:href="textures/blocks/planks_oak.png"
+           mask="none"
+           width="16.000002"
+           height="16.000002"
+           preserveAspectRatio="none"
+           style="image-rendering:optimizeSpeed"
+           id="image6645"
+           x="98"
+           y="193"
+           inkscape:label="top3"
+           clip-path="url(#clipPath6651)"
+           transform="translate(-15.999992,-8)" />
+      </g>
+      <g
+         style="display:inline"
+         transform="matrix(0.5,0,0,0.5,42.000002,100.5)"
+         inkscape:label="glue-flaps"
+         id="g6620">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 80.129782,217.1298 7.935109,7.7404 H 103.9351 l 7.93511,-7.7404 z"
+           id="path6598"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="bottom-3" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 48.129785,249.1298 7.935108,7.7404 h 15.870214 l 7.935109,-7.7404 z"
+           id="path6600"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="bottom-2" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m 16.129784,217.1298 7.935108,7.7404 h 15.870213 l 7.93511,-7.7404 z"
+           id="path6602"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="bottom-1" />
+        <path
+           inkscape:label="front-1"
+           inkscape:connector-curvature="0"
+           id="path6604"
+           d="m 144.25478,201.3544 7.5621,7.8228 -7.5621,7.8228 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+        <path
+           inkscape:label="top-2"
+           inkscape:connector-curvature="0"
+           id="path6612"
+           d="M 32.177199,184.74522 40,177.18312 l 7.822802,7.5621 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+        <path
+           inkscape:label="top-1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 16.177199,200.74522 24,193.18312 l 7.8228,7.5621 z"
+           id="path6614"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6616"
+           d="M 80.254776,153.1772 87.816875,161 80.254776,168.8228 Z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           inkscape:label="right-2" />
+        <path
+           inkscape:label="right-1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 47.745279,153.1772 40.18318,161 l 7.562099,7.8228 z"
+           id="path6618"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:label="right-2"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 64.254788,169.17732 7.562099,7.8228 -7.562099,7.8228 z"
+           id="path6643"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 48.177211,152.74522 7.822801,-7.5621 7.822802,7.5621 z"
+           id="path6664"
+           inkscape:connector-curvature="0"
+           inkscape:label="top-2" />
+        <path
+           inkscape:label="top-2"
+           inkscape:connector-curvature="0"
+           id="path6666"
+           d="m 64.177211,152.74522 7.822801,-7.5621 7.822802,7.5621 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.50955212;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+        <path
+           inkscape:label="bottom-3"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path6668"
+           d="m 112.12981,169.12979 7.7404,7.93511 v 15.87021 l -7.7404,7.93511 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25960541;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+      </g>
+    </g>
+  </g>
+</svg>
